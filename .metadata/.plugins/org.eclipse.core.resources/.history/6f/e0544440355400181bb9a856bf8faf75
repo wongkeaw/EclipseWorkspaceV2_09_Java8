@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package com.mkyong.java8;
+
+import java.math.BigDecimal;
+
+/**
+ * @author ongOngongPC
+ *
+ */
+public class Developer {
+	
+	private String name ;
+	private BigDecimal salary ;
+	private int age ;
+
+	/**
+	 * 
+	 */
+	public Developer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

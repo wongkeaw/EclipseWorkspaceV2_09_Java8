@@ -1,0 +1,9 @@
+package com.mkyong.java8;
+
+public class TestSorting2 {
+
+	public TestSorting2() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
